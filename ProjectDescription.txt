@@ -5,3 +5,6 @@ Project Description
 Group Members
 -------------
 Joanna Halpern  260410826 joanna.halpern@mail.mcgill.ca
+ZeYu Yang       260447989 ze.yang@mail.mcgill.ca
+Anand Patel     260583812 anand.patel@mail.mcgill.ca
+Vivka Patel     260581291 vivak.patel@mail.mcgill.ca
